@@ -103,7 +103,7 @@ rizoel += f"┣➣ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 
 rizoel += f"┣➣ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
 
-rizoel += f"┣➣ **RizoelXspam. ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
+rizoel += f"┣➣ **MARCUS SPAM BOT VERSION**  : `{marcus version}`\n"
     
 rizoel += f"┗━━━━━━━━━━━━━━━━━━━\n\n"
 
